@@ -1,0 +1,4 @@
+in my excel file you can find ,
+page 1 for calculating x
+page 2 for inverse matris
+page 3 for the result 
